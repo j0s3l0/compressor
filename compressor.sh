@@ -1,5 +1,5 @@
 #!/bin/bash
-#author:Jose L. Chacano
+#author: J.Chacano
 
 ext=$1
 
